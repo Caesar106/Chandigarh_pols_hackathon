@@ -1,4 +1,4 @@
-# 🛡️ Punjab Police AI-Powered Drug Intelligence System
+# 🛡️ Chandigarh Police AI-Powered Drug Intelligence System
 
 An end-to-end intelligence gathering and anti-detection forensic platform engineered for **Punjab Police** to combat drug trafficking (Chitta/Heroin, Opium, Tramadol) across **Surface Web**, **Dark Web (.onion)**, and **Encrypted Messaging (Telegram)**.
 
